@@ -1,11 +1,3 @@
-## Hi there 👋
-
-<!--
-**Davepea/Davepea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Certainly! Here's a professional README for your GitHub profile:
-
----
-
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
@@ -38,5 +30,11 @@ I'm always open to collaboration and new opportunities. Feel free to reach out!
 - **Portfolio:** https://peace-sepia.vercel.app/
 
 Thank you for visiting my profile. Happy coding! 🚀
+
+<!--
+**Davepea/Davepea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Certainly! Here's a professional README for your GitHub profile:
+
+
 
 
