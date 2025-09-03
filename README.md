@@ -1,40 +1,50 @@
-# Welcome to My GitHub Profile! 👋
+:
 
-## About Me
+👋 Welcome to My GitHub
+About Me
 
-Hello! I'm Peace David, a passionate Software Engineer specializing in Web development. Here, I share my journey, projects, and learnings as I navigate through the exciting world of software engineering.
+Hey there! I’m Peace David, a Software Engineer & Creative Developer who loves crafting seamless digital experiences. My journey started with a curiosity for design and code, and over time, I’ve specialized in building modern web applications that blend functionality, performance, and creativity.
 
-### What I Do
+I believe in wearing your truth through code, building things that not only work but also feel right.
 
-- **Frontend Development:** My primary focus is on building beautiful, responsive, and user-friendly interfaces using modern frontend technologies.
-- **Continuous Learning:** I'm always eager to learn new things and improve my skills. This space reflects my commitment to growth and innovation.
+🚀 What I Do
 
-### My Tech Stack
+Frontend Engineering: Building fast, responsive, and accessible interfaces with React, Next.js, Angular, and Tailwind CSS.
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React, Express.js, Next.js, Gsap, Framer, Tailwind
-- **Tools & Platforms:** Git, GitHub, Webpack, Node.js
-- **Design:** Figma, Adobe Photoshop, Adobe Illustrator
+Creative Development: Blending design and motion using Framer Motion, GSAP, and animation libraries.
 
-### Current Projects
+Fullstack Capabilities: Leveraging Node.js, Express.js, and Sanity to ship production-ready applications.
 
-- **[Project Name]:** Brief description of the project.
-- **[Project Name]:** Brief description of the project.
+Continuous Learning: Exploring new tools and patterns to grow as an engineer and creator.
 
-### Let's Connect
+🛠 Tech Stack
 
-I'm always open to collaboration and new opportunities. Feel free to reach out!
+Languages: JavaScript (ES6+), TypeScript, HTML, CSS/SCSS
 
-- **LinkedIn:** Peace Adebayo
-- **Twitter:** @peaceboy001
-- **Portfolio:** https://peace-original.vercel.app/
+Frameworks & Libraries: React, Next.js (15 + Turbopack), Angular, Express.js, GSAP, Framer Motion
 
-Thank you for visiting my profile. Happy coding! 🚀
+Tools & Platforms: Git, GitHub, Node.js, Sanity, MongoDB
 
-<!--
-**Davepea/Davepea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Certainly! Here's a professional README for your GitHub profile:
+Design: Figma, Adobe Photoshop, Adobe Illustrator
 
+📌 Current Projects
 
+💳 Wallet Component (Angular): A custom wallet & transaction UI powered by live API integrations.
 
+🌍 Wear Your Truth: A creative streetwear e-commerce brand with a focus on authentic digital storytelling.
 
+🎓 Career Roadmap Generator: AI-powered tool that creates personalized roadmaps and curated resources for beginners entering tech.
+
+🌐 Let’s Connect
+
+I’m always open to collaborations, freelance opportunities, or just geeking out about web dev.
+
+Portfolio: peace-original.vercel.app
+
+LinkedIn: Peace Adebayo
+
+Twitter/X: @peaceboy001
+
+💡 “You’ve got a great idea, leave the rest to me.”
+
+Thanks for stopping by — happy coding! ✨
