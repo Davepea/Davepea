@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Peace David, a passionate Software Engineer specializing in Frontend Development. Here, I share my journey, projects, and learnings as I navigate through the exciting world of software engineering.
+Hello! I'm Peace David, a passionate Software Engineer specializing in Web development. Here, I share my journey, projects, and learnings as I navigate through the exciting world of software engineering.
 
 ### What I Do
 
