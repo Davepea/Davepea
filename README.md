@@ -1,6 +1,6 @@
 :
 
-👋 Welcome to My GitHub
+**👋 Welcome to My GitHub
 About Me
 
 Hey there! I’m Peace David, a Software Engineer & Creative Developer who loves crafting seamless digital experiences. My journey started with a curiosity for design and code, and over time, I’ve specialized in building modern web applications that blend functionality, performance, and creativity.
