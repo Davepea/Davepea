@@ -27,7 +27,7 @@ I'm always open to collaboration and new opportunities. Feel free to reach out!
 
 - **LinkedIn:** Peace Adebayo
 - **Twitter:** @peaceboy001
-- **Portfolio:** https://peace-sepia.vercel.app/
+- **Portfolio:** https://peace-original.vercel.app/
 
 Thank you for visiting my profile. Happy coding! 🚀
 
